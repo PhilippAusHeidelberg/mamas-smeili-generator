@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"/>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_selected_event" id="SW}oK-=K.3y*%V[]CLAK" x="20" y="20"><field name="NAME">Button.A</field><value name="eventType"><shadow type="control_button_event_click" id="?R~~M))qp-IREl3n{@;`"/></value><statement name="HANDLER"><block type="basic_show_icon" id="q-|#X:~8lC#cNBZl7/v("><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_selected_event" id="#2n`qvmk((nBq2mp{!3]" x="367" y="20"><field name="NAME">Button.AB</field><value name="eventType"><shadow type="control_button_event_click" id="HbyzXTX+4I@$a!;(vF7Z"/></value><statement name="HANDLER"><block type="device_show_leds" id="A0OfFp;*qzgvK0r6nSm]"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        . # # # . 
+        # . . . #
+        `</field></block></statement></block><block type="device_button_selected_event" id="^1(:{*zyQBqu+RkV-e]/" x="688" y="20"><field name="NAME">Button.B</field><value name="eventType"><shadow type="control_button_event_click" id="TYNdG*x4YjK80}|%6NmV"/></value><statement name="HANDLER"><block type="basic_show_icon" id="5_UU*@_uR#;F4GG]aR,A"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><field name="i">IconNames.Sad</field></block></statement></block></xml>

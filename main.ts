@@ -1,15 +1,15 @@
-input.onButtonEvent(Button.A, input.buttonEventClick(), function on_button_a() {
+input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
     basic.showIcon(IconNames.Happy)
 })
-input.onButtonEvent(Button.AB, input.buttonEventClick(), function on_button_ab() {
+input.onButtonEvent(Button.AB, input.buttonEventClick(), function () {
     basic.showLeds(`
         # # . # #
-                # # . # #
-                . . . . .
-                . # # # .
-                # . . . #
-    `)
+        # # . # #
+        . . . . .
+        . # # # .
+        # . . . #
+        `)
 })
-input.onButtonEvent(Button.B, input.buttonEventClick(), function on_button_b() {
+input.onButtonEvent(Button.B, input.buttonEventClick(), function () {
     basic.showIcon(IconNames.Sad)
 })

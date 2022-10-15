@@ -1,5 +1,5 @@
 {
-    "name": "mamas smeili generator",
+    "name": "mama",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -20,5 +20,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
